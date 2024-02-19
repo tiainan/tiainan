@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Hi, my name is Tahiriniaina RAMANANDRAIBE
 
 - 🔭 I'm currently studying with SAYNA academic School
