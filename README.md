@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-Hi, my name is Tahiriniaina RAMANANDRAIB
+Hi, my name is Tahiriniaina RAMANANDRAIBE
 
 - 🔭 I'm currently studying with SAYNA academic School
 - 🌱 I'm currently learning all things about development and speficialy how to learn it.
